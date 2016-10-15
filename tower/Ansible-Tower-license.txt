@@ -1,0 +1,11 @@
+{
+    "company_name": "Red Hat, Inc.", 
+    "contact_email": "curriculum+gls@redhat.com", 
+    "contact_name": "curriculum gls", 
+    "hostname": "89c2bc2aced14763adb20cc32f1c4dfb", 
+    "instance_count": 10, 
+    "license_date": 1497116525, 
+    "license_key": "52861d5e27bc684bbf83b12d8080480fbafdceb0bd009c38344a62dce08d11af", 
+    "license_type": "enterprise", 
+    "subscription_name": "Enterprise Tower up to 10 Nodes"
+}
